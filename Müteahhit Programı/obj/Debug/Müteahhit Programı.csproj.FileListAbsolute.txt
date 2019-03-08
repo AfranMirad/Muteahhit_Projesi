@@ -1,0 +1,146 @@
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\pc\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Müteahhit-Programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\pc\Desktop\1_Mazhar_Yardımcı_77_Fahrettin_Aksu\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\2015.05.2015 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Yeni_Kullanici_Formu.resources
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Yeni_Kullanici_Formu.resources
+C:\Users\ogrenci\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Yeni_Kullanici_Formu.resources
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Toplam_Gider_Formu.resources
+C:\Users\pc\Desktop\2015.05.10 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\F&A.accdb
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\F&A.accdb
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Toplam_Gider_Formu.resources
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Yeni_Kullanici_Formu.resources
+C:\Users\pc\Desktop\2015.05.23 F_A\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Toplam_Gider_Formu.resources
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Yeni_Kullanici_Formu.resources
+C:\Users\Afran\Desktop\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Toplam_Gider_Formu.resources
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Yeni_Kullanici_Formu.resources
+D:\cbü ders\ödev ve projeler\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe.config
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.exe
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.pdb
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.exe
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\bin\Debug\Müteahhit Programı.pdb
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csprojResolveAssemblyReference.cache
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Calısan_Formu.resources
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Insaat_Formu.resources
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Kullanici_Formu.resources
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Malzeme_Formu.resources
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Properties.Resources.resources
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Toplam_Gider_Formu.resources
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit_Programı.Yeni_Kullanici_Formu.resources
+D:\cbü ders\genel çalışma\müteahhit programı\Müteahhit Programı\Müteahhit Programı\obj\Debug\Müteahhit Programı.csproj.GenerateResource.Cache
